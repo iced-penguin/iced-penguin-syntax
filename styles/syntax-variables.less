@@ -1,0 +1,47 @@
+@import "colors";
+
+// This defines all syntax variables that syntax themes must implement when they
+// include a syntax-variables.less file.
+
+// General colors
+@syntax-text-color: @mono-1;
+@syntax-cursor-color: white;
+@syntax-selection-color: rgba(100, 100, 100, 0.4);
+@syntax-background-color: @syntax-bg;
+
+// Guide colors
+@syntax-wrap-guide-color: @mono-4;
+@syntax-indent-guide-color: @mono-4;
+@syntax-invisible-character-color: @mono-4;
+
+// For find and replace markers
+@syntax-result-marker-color: white;
+@syntax-result-marker-color-selected: @orange;
+
+// Gutter colors
+@syntax-gutter-text-color: @mono-2;
+@syntax-gutter-text-color-selected: @mono-2;
+@syntax-gutter-background-color: @syntax-background-color;
+@syntax-gutter-background-color-selected: rgba(200, 200, 200, 0.4);
+
+// For git diff info. i.e. in the gutter
+@syntax-color-renamed: @blue;
+@syntax-color-added: @green;
+@syntax-color-modified: @orange;
+@syntax-color-removed: @red;
+
+// For language entity colors
+
+@syntax-color-comment: @mono-3;
+@syntax-color-numeric: @syntax-text-color;
+@syntax-color-operator: @hue-2-1;
+@syntax-color-string: @hue-4-2;
+
+@syntax-color-variable: @hue-2-1;
+@syntax-color-constant: @hue-3-1;
+@syntax-color-function: @hue-3-2;
+@syntax-color-method: @hue-3-2;
+@syntax-color-class: @hue-1-2;
+@syntax-color-keyword: @hue-1-1;
+@syntax-color-tag: @hue-2-1;
+@syntax-color-attribute: @hue-1-1;

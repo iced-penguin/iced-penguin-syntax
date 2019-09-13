@@ -1,0 +1,17 @@
+{
+  "name": "iced-penguin-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "A dark syntax theme inspired by the ice world and penguins.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "cold",
+    "blue"
+  ],
+  "repository": "https://github.com/swimpenguin/iced-penguin-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
