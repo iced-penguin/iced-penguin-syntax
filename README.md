@@ -23,4 +23,4 @@ apm install iced-penguin-syntax
 
 ## Screenshot
 
-![screenshot](https://docs.google.com/drawings/d/e/2PACX-1vSazMsOe-SlSQN_42aAGcwbi_HSg9cqYEAI-o2-OYfTVj7cTbesBBnaB8Y0WxMI4vmg0bxGXaW03Gq2/pub?w=480&h=342)
+![screenshot](https://docs.google.com/drawings/d/e/2PACX-1vSazMsOe-SlSQN_42aAGcwbi_HSg9cqYEAI-o2-OYfTVj7cTbesBBnaB8Y0WxMI4vmg0bxGXaW03Gq2/pub?w=957&h=679)
